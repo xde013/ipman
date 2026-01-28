@@ -5,7 +5,9 @@ A quick UI builder, drag to create a region, describe what you want in plain Eng
 ## Built with
 React, TypeScript, Tailwind, OpenAI, and Vite
 
-![Demo](output.gif)
+<p align="center">
+  <img src="output.gif" alt="Demo" />
+</p>
 
 
 ## Includes
