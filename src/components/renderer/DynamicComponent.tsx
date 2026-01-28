@@ -1,5 +1,5 @@
 import { createElement } from 'react';
-import type { GeneratedComponent } from '../types';
+import type { GeneratedComponent } from '../../domain';
 
 interface DynamicComponentProps {
   component: GeneratedComponent;

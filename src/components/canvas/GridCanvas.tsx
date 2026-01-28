@@ -1,6 +1,6 @@
 import { useRef, useState, useCallback, useEffect } from 'react';
 import { useMouse } from 'react-use';
-import type { Region, Bounds, CanvasSize, GeneratedComponent } from '../types';
+import type { Region, Bounds, CanvasSize, GeneratedComponent } from '../../domain';
 import { RegionOverlay } from './RegionOverlay';
 import { PromptInput } from './PromptInput';
 

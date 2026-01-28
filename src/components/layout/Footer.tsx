@@ -6,7 +6,7 @@ export function Footer() {
         href="https://github.com/xde013"
         target="_blank"
         rel="noopener noreferrer"
-        className="hover:text-gray-600 transition-colors"
+        className="text-indigo-500 hover:text-indigo-600 hover:underline transition-colors"
       >
         Ryan
       </a>

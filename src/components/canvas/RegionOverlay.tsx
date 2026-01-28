@@ -1,7 +1,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import { Highlight, themes } from 'prism-react-renderer';
-import type { Region, Bounds, GeneratedComponent } from '../types';
-import { DynamicComponent } from './DynamicComponent';
+import type { Region, Bounds, GeneratedComponent } from '../../domain';
+import { DynamicComponent } from '../renderer';
 
 interface RegionOverlayProps {
   region: Region;
