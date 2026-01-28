@@ -1,0 +1,6 @@
+/* Minimal custom styles that can't be done with Tailwind utilities */
+
+/* Custom border-width for spinner */
+.border-3 {
+  border-width: 3px;
+}
